@@ -1,0 +1,121 @@
+.buttons-tab.fixed-tab {
+    margin: 0px 11px;
+    margin-bottom: -12px;
+}
+
+.buttons-fixed {
+    margin: 0 !important;
+}
+
+.list-block .item-content {
+    padding-left: 0px;
+}
+
+.list-block .item-content .item-inner .fa-thumbs-o-up {
+    float: right;
+}
+
+.grid-pic .thumbnail {
+    margin-bottom: 5px;
+}
+
+.card .card-header h3 {
+    margin: 0px;
+}
+
+.card .card-content .button {
+    display: inline-block;
+    font-size: 0.5rem;
+    line-height: 19px;
+    height: 18px;
+    margin-bottom: 1px;
+    padding: 0px 6px;
+}
+
+.card-header .bloc-img {
+    text-align: center;
+}
+
+.card .grid-pic {
+    padding-bottom: 5px;
+}
+
+.card-header .img-circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+}
+
+.thumbnail .img-thumbnail {
+    width: 110px;
+    height: 110px;
+}
+
+.list-block .item-media .img-food {
+    width: 60px;
+    height: 60px;
+}
+
+.content-block .no-review {
+    padding-top: 5px;
+}
+
+#tab2 {
+    margin-top: 0px;
+}
+
+.tab .bloc-button {
+    padding-top: 1px;
+}
+
+#l-image-food {
+    width: 100%;
+}
+
+.fa-thumbs-up {
+    color: #0894ec;
+}
+
+.cpt-likes {
+    color: #0894ec;
+    padding-right: 5px;
+}
+
+.bar-tab .confirm-wechat {
+    background-color: #4cd964;
+    color: #fff;
+}
+.bar-tab .confirm-wechat:focus {
+    background-color: #44c35a;
+    color: #fff;
+}
+
+.bar-tab .confirm-call {
+    background-color: #0894ec;
+    color: #fff;
+}
+.bar-tab .confirm-call:focus {
+    background-color: #0785D4;
+    color: #fff;
+}
+
+.bar-tab .edit-review {
+    color: #fc6721;
+}
+
+.bar-tab .edit-review:focus {
+    color: #f24535;
+}
+
+.item-content .list-text {
+    font-size: 13px;
+}
+
+@media screen and (min-width: 480px) {
+    .thumbnail .img-thumbnail {
+        width: 100%;
+        height: 180px;
+    }
+}
